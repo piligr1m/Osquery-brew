@@ -47,7 +47,8 @@ $ dumer dump
     * Tornado
     * Werkzeug
     * Whoosh 
-    * xlrd  Все необходимые пакеты можно установить с помощью команды:
+    * xlrd  
+Все необходимые пакеты можно установить с помощью команды:
 ```ShellSession
 $ sudo pip3 install -r requirements.txt
 ```
