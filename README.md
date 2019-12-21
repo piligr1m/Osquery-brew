@@ -35,6 +35,8 @@ $ ./sbin/db_updater.py -c // может занять много времени.
 ```ShellSession
 $ ./bin/search.py -p webex: -o csv  -v "формула"
 ```
+## Демонстрационные видео
+[![asciicast](https://asciinema.org/a/Zc0PM2hUcPeyVNjIqSDUS9V1I.svg)](https://asciinema.org/a/Zc0PM2hUcPeyVNjIqSDUS9V1I)
 ## Полезные ссылки
 - [Менедер пакетов для Python](https://pypi.org/project/pip/)
 - [Официальный сайт osquery](https://osquery.io)
