@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
- brew install docker
-launchctl start docker
+sudo pacman -S --needed docker
+sudo systemctl start docker
 
 cd dumper
 sudo docker build . -t dumper
