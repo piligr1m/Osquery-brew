@@ -22,7 +22,6 @@ $ dumer dump
 На выходе вы получите SQL-таблицу с нужными данными.  
 Пример использования скрипта для получиния списка существующих CVE по формуле.
 Необходмиые пакеты для работы скрипта:
-```bash
 + Python 3.6 or later
 + MongoDB 2.2 or later
 + redis server
@@ -49,7 +48,6 @@ $ dumer dump
     * Werkzeug
     * Whoosh 
     * xlrd
- ```
 Все необходимые пакеты можно установить с помощью команды:
 ```ShellSession
 $ sudo pip3 install -r requirements.txt
