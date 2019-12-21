@@ -22,10 +22,10 @@ $ dumer dump
 На выходе вы получите SQL-таблицу с нужными данными.
 Пример использования скрипта для получиния списка существующих CVE по формуле.
 Необходмиые пакеты для работы скрипта:
-1.Python 3.6 or later
-2.MongoDB 2.2 or later
-3.redis server
-4.Pip3
+1. Python 3.6 or later
+2. MongoDB 2.2 or later
+3. redis server
+4. Pip3
    click
    feedformater (for RSS and Atom dump_last) 
    Flask
