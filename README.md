@@ -21,28 +21,28 @@ $ dumer dump
 2.MongoDB 2.2 or later
 3.redis server
 4.Pip3
-   *click
-   *feedformater (for RSS and Atom dump_last) 
-   *Flask
-   *Flask-Login
-   *Flask-PyMongo
-   *irc
-   *itsdangerous
-   *Jinja2
-   *lxml
-   *passlib
-   *PyMongo
-   *Python-dateutil
-   *Pytz
-   *Redis
-   *requests
-   *requirements-parser
-   *six
-   *sleekxmpp
-   *Tornado
-   *Werkzeug
-   *Whoosh 
-   *xlrd
+   click
+   feedformater (for RSS and Atom dump_last) 
+   Flask
+   Flask-Login
+   Flask-PyMongo
+   irc
+   itsdangerous
+   Jinja2
+   lxml
+   passlib
+   PyMongo
+   Python-dateutil
+   Pytz
+   Redis
+   requests
+   requirements-parser
+   six
+   sleekxmpp
+   Tornado
+   Werkzeug
+   Whoosh 
+   xlrd
 Все необходимые пакеты можно установить с помощью команды:
 ```ShellSession
 $ sudo pip3 install -r requirements.txt
