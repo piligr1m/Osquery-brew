@@ -43,7 +43,7 @@ $ ./process_issues.py
 ## Демонстрационные видео
 Получение CVE:  
 [![asciicast](https://asciinema.org/a/Zc0PM2hUcPeyVNjIqSDUS9V1I.svg)](https://asciinema.org/a/Zc0PM2hUcPeyVNjIqSDUS9V1I)  
-Получение issue:  
+Получение issue и pull-request:  
 [![asciicast](https://asciinema.org/a/KTgP7sDCdCmkQoFsKSXKyhhXw.svg)](https://asciinema.org/a/KTgP7sDCdCmkQoFsKSXKyhhXw)
 ## Полезные ссылки
 - [Менедер пакетов для Python](https://pypi.org/project/pip/)
