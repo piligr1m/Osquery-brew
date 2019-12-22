@@ -6,8 +6,8 @@ import datetime
 from json_helpers import extract_datetime
 
 
-ORG = 'nlohmann'
-REPO = 'json'
+ORG = 'owner'
+REPO = 'name'
 FILENAME_ISSUES = ORG + 'issues.json'
 BUG_LABEL = ['bug']
 CRITICAL_BUG_LABEL = ['sev1-critical', 'sev2-high']
