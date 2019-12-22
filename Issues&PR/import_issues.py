@@ -4,9 +4,9 @@ import github3, json, os.path
 
 from json_helpers import DateTimeEncoder
 
-GITHUB_TOKEN = '1f2783205149cd9bf6c7986df754556332b8c212'
-ORG = 'nlohmann'
-REPO = 'json'
+GITHUB_TOKEN = 'Your token'
+ORG = 'owner'
+REPO = 'name'
 FILENAME_ISSUES = ORG + 'issues.json'
 
 data = {}
