@@ -50,4 +50,5 @@ $ ./process_issues.py
 - [Официальный сайт osquery](https://osquery.io)
 - [Homebrew](https://brew.sh/index_ru)
 - [NATIONAL VULNERABILITY DATABASE](https://nvd.nist.gov)
+- [Github3.py](https://pypi.org/project/github3.py/)
 
