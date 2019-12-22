@@ -39,7 +39,7 @@ $ sudo pip3 install -r requirements.txt
 $ ./import_issues.py
 $ ./process_issues.py
 ```
-После выполенния этих команд в папке со скриптами появиться файл `result.tsv`, в котором будет таблица с количеством закрытых issue и pull-request.
+После выполенния этих команд в директории со скриптами появится файл `result.tsv`, в котором будет таблица с количеством закрытых issue и pull-request.
 ## Демонстрационные видео.
 - [Получение CVE](https://asciinema.org/a/Zc0PM2hUcPeyVNjIqSDUS9V1I)  
 - [Получение issue и pull-request](https://asciinema.org/a/KTgP7sDCdCmkQoFsKSXKyhhXw)
