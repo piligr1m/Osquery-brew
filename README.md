@@ -23,7 +23,7 @@ $ dumper ls
 Пример использования скрипта для получиния списка существующих CVE по формуле.  
 Все необходимые пакеты для работы скрипта можно установить с помощью команды:
 ```ShellSession
-$ sudo pip3 install -r requirements.txt
+$  pip3 install requests untangle
 ```
 Чтобы получить все существующие CVE для формулы введите:
 ```ShellSession
