@@ -37,8 +37,9 @@ $ ./bin/search.py -p webex: -o csv  -v "формула"
 ```
 ## Демонстрационные видео
 Получение CVE:  
-[![asciicast](https://asciinema.org/a/Zc0PM2hUcPeyVNjIqSDUS9V1I.svg)](https://asciinema.org/a/Zc0PM2hUcPeyVNjIqSDUS9V1I)
-Получение issue:
+[![asciicast](https://asciinema.org/a/Zc0PM2hUcPeyVNjIqSDUS9V1I.svg)](https://asciinema.org/a/Zc0PM2hUcPeyVNjIqSDUS9V1I)  
+Получение issue:  
+[![asciicast](https://asciinema.org/a/KTgP7sDCdCmkQoFsKSXKyhhXw.svg)](https://asciinema.org/a/KTgP7sDCdCmkQoFsKSXKyhhXw)
 ## Полезные ссылки
 - [Менедер пакетов для Python](https://pypi.org/project/pip/)
 - [Официальный сайт osquery](https://osquery.io)
