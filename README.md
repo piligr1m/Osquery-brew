@@ -49,4 +49,5 @@ $ ./process_issues.py
 - [Менедер пакетов для Python](https://pypi.org/project/pip/)
 - [Официальный сайт osquery](https://osquery.io)
 - [Homebrew](https://brew.sh/index_ru)
+- [NATIONAL VULNERABILITY DATABASE](https://nvd.nist.gov)
 
