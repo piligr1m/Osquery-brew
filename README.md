@@ -42,8 +42,8 @@ $ ./process_issues.py
 После выполенния этих команд в папке со скриптами появиться файл `result.tsv`, в котором будет таблица с количеством закрытых issue и pull-request.
 ## Демонстрационные видео
 - [Получение CVE](https://asciinema.org/a/Zc0PM2hUcPeyVNjIqSDUS9V1I)  
-- [Получение issue и pull-request](https://asciinema.org/a/Zc0PM2hUcPeyVNjIqSDUS9V1I)   
-[![asciicast](https://asciinema.org/a/KTgP7sDCdCmkQoFsKSXKyhhXw.svg)](https://asciinema.org/a/KTgP7sDCdCmkQoFsKSXKyhhXw)
+- [Получение issue и pull-request](https://asciinema.org/a/KTgP7sDCdCmkQoFsKSXKyhhXw)   
+
 ## Полезные ссылки
 - [Менедер пакетов для Python](https://pypi.org/project/pip/)
 - [Официальный сайт osquery](https://osquery.io)
