@@ -9,6 +9,7 @@ Osquery-расширение для менджера пакетов Homebrew. Д
 ## Инструкции по запуску скриптов.
 В зависимости от того, что вы хотите сделать, выберите нужный скрипт и скачайте его.  
 Пример использования скриптов для получения списков установаленных пакетов, корневых пакетов и доступные обновления.  
+Обязательным условием работы данных трех скриптов является наличие менеджера пакетов Pacman.
 P.S данный пример приведен для получения списка установленных пакетов.
 ```ShellSession
 $ cd Packages 
@@ -54,5 +55,5 @@ $ ./process_issues.py
 - [NATIONAL VULNERABILITY DATABASE](https://nvd.nist.gov)
 - [Github3.py](https://pypi.org/project/github3.py/)
 - [Github API](https://developer.github.com/v3/)
-
+- [Pacman](https://wiki.archlinux.org/index.php/Pacman_(Русский))
 
