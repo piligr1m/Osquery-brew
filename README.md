@@ -29,7 +29,8 @@ $  pip3 install requests untangle
 ```ShellSession
 $ ./cvesearch.py -s "формула"
 ```
-Пример использования скрипта для получения закрытых issue и pull-request для репозитория.  
+Пример использования скрипта для получения закрытых issue и pull-request для репозитория. 
+В файлах `import_issues.py` и `process_issues.py` вставьте свой токен и замените автора и название репозитория. 
 Все необходимые пакеты для работы скрипта можно установить с помощью команды:
 ```ShellSession
 $ sudo pip3 install -r requirements.txt
