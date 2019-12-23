@@ -53,4 +53,6 @@ $ ./process_issues.py
 - [Homebrew](https://brew.sh/index_ru)
 - [NATIONAL VULNERABILITY DATABASE](https://nvd.nist.gov)
 - [Github3.py](https://pypi.org/project/github3.py/)
+- [Github API](https://developer.github.com/v3/)
+
 
